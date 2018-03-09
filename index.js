@@ -17,8 +17,12 @@ function logWhisper(string) {
 
 
 function sayHiToGrandma(string) {
-  return string
+  return string.toLowerCase.toUpperCase
   
 }
 
 
+function sayHiToGrandma(string) {
+return string
+  
+}
