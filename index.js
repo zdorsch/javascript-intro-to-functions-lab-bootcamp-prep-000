@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
 }
 
 
-function sayHiToGrandma('I love you, Grandma') {
+function sayHiToGrandma(`I love you, Grandma`) {
 return string
   
 }
